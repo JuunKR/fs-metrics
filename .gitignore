@@ -1,0 +1,6 @@
+test*
+config
+models
+__pycache__
+data
+result

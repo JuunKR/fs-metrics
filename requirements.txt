@@ -1,0 +1,4 @@
+opencv-python==4.8.1.78
+omegaconf==2.3.0
+dlib==19.24.2
+pytorch-fid==0.3.0
